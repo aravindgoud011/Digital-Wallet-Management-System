@@ -1,7 +1,3 @@
-Here’s a formatted version of the information for your README file:
-
----
-
 # Digital Wallet Management System
 
 A Digital Wallet Management System is a software platform that allows users to manage their financial transactions digitally. It enables users to transfer and receive funds and view account balances. This system ensures secure, fast, and convenient transactions, streamlining financial management for users.
